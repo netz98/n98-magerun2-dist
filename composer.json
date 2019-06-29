@@ -12,14 +12,13 @@
         "cli",
         "magerun2"
     ],
-	"license": ["MIT"],
 	"require": {
-		"php": "^7.0.0",
+		"php": "^7.0.0"
 	},
 	"replace": {
-		"n98/magerun2": "self.version",
+		"n98/magerun2": "self.version"
 	},
 	"bin": [
-		"n98-magerun2",
+		"n98-magerun2"
 	]
 }
