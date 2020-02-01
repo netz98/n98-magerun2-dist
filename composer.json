@@ -1,6 +1,6 @@
 {
-	"name": "n98/magerun2-dist",
-	"description": "n98-magerun2 Phar distribution",
+    "name": "n98/magerun2-dist",
+    "description": "n98-magerun2 Phar distribution",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/netz98/n98-magerun2/issues"
@@ -12,13 +12,13 @@
         "cli",
         "magerun2"
     ],
-	"require": {
-		"php": "^7.0.0"
-	},
-	"replace": {
-		"n98/magerun2": "self.version"
-	},
-	"bin": [
-		"n98-magerun2"
-	]
+    "require": {
+	"php": "^7.2.0"
+    },
+    "replace": {
+	"n98/magerun2": "self.version"
+    },
+    "bin": [
+	"n98-magerun2"
+    ]
 }
