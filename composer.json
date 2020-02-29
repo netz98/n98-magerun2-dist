@@ -13,12 +13,12 @@
         "magerun2"
     ],
     "require": {
-	"php": "^7.2.0"
+	    "php": ">=7.2.0"
     },
     "replace": {
-	"n98/magerun2": "self.version"
+	    "n98/magerun2": "self.version"
     },
     "bin": [
-	"n98-magerun2"
+	    "n98-magerun2"
     ]
 }
