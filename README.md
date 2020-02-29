@@ -3,7 +3,7 @@
 This package provides the n98-magerun2 tool as phar file.
 This package comes with no package dependencies.
 
-# Installation
+## Installation
 
 
 ```
